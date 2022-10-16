@@ -1,2 +1,2 @@
 # SENG1110
-A Vet Clinic Management System using Java
+This program is a Vet Clinic database which records up to two Doctors and four Pets.
